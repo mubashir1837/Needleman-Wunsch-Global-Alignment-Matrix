@@ -6,7 +6,7 @@ Global alignment ensures that **two sequences are compared from start to end**, 
 
 ---
 
-## 📌 Features
+## Features
 - Implements the **Needleman-Wunsch Algorithm** in Python  
 - Supports customizable **scoring scheme**:
   - Match reward  
@@ -24,9 +24,9 @@ Global alignment ensures that **two sequences are compared from start to end**, 
 
 ---
 
-## Mubashir Ali - Founder @ Code with Bismillah | Aspiring Bioinformatics & Data Science Professional | Bridging Biology & Data | Researcher | Genomics, Machine Learning, AI | Python, R, Bioinformatics Tools | QAU
+## Mubashir Ali - Founder @ Code with Bismillah | Aspiring Bioinformatics & Data Science Professional | Bridging Biology & Data | Researcher | Genomics, Machine Learning, AI | Python, R, Bioinformatics Tools 
 
-## ⚙️ Installation
+## Installation
 Clone the repository:
 ```bash
 git clone https://github.com/mubashir1837/Needleman-Wunsch-Global-Alignment-Matrix.git
